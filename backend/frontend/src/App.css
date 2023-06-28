@@ -1,0 +1,32 @@
+body{
+  background-image: url(https://images.pexels.com/photos/616401/pexels-photo-616401.jpeg?cs=srgb&dl=pexels-lukas-616401.jpg&fm=jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+ 
+}
+.navbar{
+  font-size: large;
+  font-weight: 600;
+}
+.navbar img{
+  width: 100px;
+  padding: 5px;
+  margin-bottom: -15px;
+  margin-top: -15px;
+}
+.card-container{
+  display:flex;
+  flex-wrap: wrap;
+  margin: 2rem;
+  width: fit-content;
+  
+}
+
+
+.addRecipes{
+  text-align: center;
+  color: black;
+  font-size: larger;
+  font-weight: 600;
+}
+
